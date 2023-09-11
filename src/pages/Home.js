@@ -4,7 +4,7 @@ function HomePage() {
   return (
     <>
       <h1>My Home Page</h1>
-      <p>go to <Link to="/products">list of products</Link></p>
+      <p>go to <Link to="products">list of products</Link></p>
     </>
   );
 }
